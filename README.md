@@ -94,7 +94,7 @@ Unsupervised clustering quality was mathematically evaluated using dual metrics:
 
 ## 👩🏾‍💻 About Me
 
-*Adeniyi Rukayat* — Data & Operations Analyst | Abuja, Nigeria
+*Adeniyi Rukayat* - Data & Operations Analyst | Abuja, Nigeria
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
